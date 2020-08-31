@@ -1,5 +1,8 @@
 ### Hi, I'm Tanishq - [tannatsri][website] 👋
 
+
+![Developer](https://www.ravsanmedia.com/web_assets/images/content-writing.gif)
+
 ## I'm a Student,Backend Developer and Competitive Programmer!
 
 - 🌱 I’m currently pursuing my studies [pre final year]
