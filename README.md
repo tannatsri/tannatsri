@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently pursuing my studies [pre final year]
 - ⚡ I’m currently learning Node Js and MongoDB 
-- 🔭 2020 Goals: To become Blue on Codeforces
+- 🔭 2021 Goals: To become Blue on Codeforces
 
 
 
