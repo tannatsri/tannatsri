@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently pursuing my studies [pre final year]
 - ⚡ I’m currently learning Node Js and MongoDB 
-- 🔭 2021 Goals: To become Blue on Codeforces
+- 🔭 Building -> [Tiftin](https://www.tiftin.co)
 
 
 
@@ -17,6 +17,7 @@
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 
@@ -31,6 +32,7 @@
 <br />
 
 
-[website]: https://tannatsri.github.io/
+[website]: https://www.tannatsri.co
 [instagram]: https://www.instagram.com/tannatsri/
 [linkedin]: https://www.linkedin.com/in/tannatsri/
+[twitter]: https://www.twitter.com/tannatsri/
